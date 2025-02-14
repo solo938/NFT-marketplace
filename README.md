@@ -101,5 +101,3 @@ Then, interact with the contract using JavaScript.
 
 ---
 
-### 🎉 **Your NFT Marketplace is Now Ready!**  
-Let me know if you need further customization. 🚀
