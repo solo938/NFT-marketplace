@@ -1,4 +1,4 @@
-const hre = require("hardhat");
+const href = require("hardhat");
 
 async function main() {
     const NFT = await hre.ethers.getContractFactory("NFT");
